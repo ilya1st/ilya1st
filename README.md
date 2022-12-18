@@ -1,8 +1,12 @@
+
+
 - 👋 Hi, I’m Ilya Azarov, sowtware developer wih experience more than 20 years in various software environments, lannguages and projects.
 - 👀 I’m interested in Java programming, databases, software architecutre.
 - 💞️ I’m looking for interesting projects, interesting job to use my skills to solve interesting problems
 - 📫 You can learn more about me on my personal site https://azarov-pro.ru/ and reach me using contacta on my page https://azarov-pro.ru/contacts/
 
+
+<hr />
 
 
 - 👋 Привет, я Азаров Илья, разработчик программного обеспечения со стажем более 20 лет в различных программных окружениях, языках и проектах.
